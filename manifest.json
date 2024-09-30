@@ -1,0 +1,11 @@
+{
+    "id": "kanjimap-obsidian",
+    "name": "KanjiMap Obsidian",
+    "version": "0.0.1",
+    "minAppVersion": "0.15.0",
+    "description": "Highlights unknown Chinese characters with Zhuyin (Bopomofo) pronunciation. Uses https://kanjimap.cargocult.tech to get pronunciation data and keep track of learned characters.",
+    "author": "Ryan Alex Martin",
+    "authorUrl": "https://kanjimap.cargocult.tech",
+    "fundingUrl": "https://kanjimap.cargocult.tech",
+    "isDesktopOnly": true
+}
