@@ -1,5 +1,5 @@
 import { App } from 'obsidian';
-import { ZhuyinHighlighterSettings } from './ZhuyinHighlighterPlugin';
+import { ZhuyinHighlighterSettings } from './main';
 import { CharacterData } from './CharacterData';
 
 export class ZhuyinHighlighter {
